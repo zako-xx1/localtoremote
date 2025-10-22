@@ -10,3 +10,6 @@ function add() {
     var b = 2
     console.log(a + b)
 }
+
+
+console.log('hiii')
